@@ -6,9 +6,9 @@ Data Science Portfolio
 
 This is a project i created during the pursuit of my IBM Data Analyst Professional Certificate, where I:
 
-*Gathered the data from used_cars.csv file from kaggle.com and saved them to pandas DataFrame
-*Cleaned & Prepared the dataset
-*Performed exploratory data analysis
-*Created data visualisations
-*Created machine learning model that predicts user-inputed car price, aided by AI
+1.Gathered the data from used_cars.csv file from kaggle.com and saved them to pandas DataFrame
+2.Cleaned & Prepared the dataset
+3.Performed exploratory data analysis
+4.Created data visualisations
+5.Created machine learning model that predicts user-inputed car price, aided by AI
 
