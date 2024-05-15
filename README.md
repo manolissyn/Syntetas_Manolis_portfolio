@@ -10,7 +10,9 @@ This is a project i created during the pursuit of my IBM Data Analyst Profession
 2. Cleaned & Prepared the dataset
 3. Performed exploratory data analysis
 4. Created data visualisations
-5. Created machine learning model that predicts user-inputed car price, aided by AI
+5. Created training and testing datasets
+6. Created machine learning model that predicts user-inputed car price, aided by AI
+7. Evaluated the model
 
 ## Overview Of the Project   
 ![](https://github.com/manolissyn/Syntetas_Manolis_portfolio/blob/main/Images/PieChart.png)
