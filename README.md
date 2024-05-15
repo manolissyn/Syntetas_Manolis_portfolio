@@ -12,4 +12,7 @@ This is a project i created during the pursuit of my IBM Data Analyst Profession
 4.Created data visualisations
 5.Created machine learning model that predicts user-inputed car price, aided by AI
 
-##Overview Of the Project   ![](https://github.com/manolissyn/Syntetas_Manolis_portfolio/blob/main/Images/BarChart.png)
+## Overview Of the Project   ![](https://github.com/manolissyn/Syntetas_Manolis_portfolio/blob/main/Images/PieChart.png)
+![](https://github.com/manolissyn/Syntetas_Manolis_portfolio/blob/main/Images/Countplot.png)
+![](https://github.com/manolissyn/Syntetas_Manolis_portfolio/blob/main/Images/BarChart.png)
+![](https://github.com/manolissyn/Syntetas_Manolis_portfolio/blob/main/Images/PricePrediction.png)
